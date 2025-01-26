@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>观测档案存储室</title>
+    <link href="https://PaperBoxs.github.io/feed.xml" rel="self" />
+    <link href="https://PaperBoxs.github.io" />
+    <updated>2025-01-26T20:02:37+08:00</updated>
+    <author>
+        <name>CardBoxJustWokeUp</name>
+    </author>
+    <id>https://PaperBoxs.github.io</id>
+
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>CardBoxJustWokeUp</name>
+        </author>
+        <link href="https://PaperBoxs.github.io/ce-shi.html"/>
+        <id>https://PaperBoxs.github.io/ce-shi.html</id>
+
+        <updated>2025-01-26T20:02:31+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://PaperBoxs.github.io/media/posts/1/lyhy.jpg" alt="" width="1920" height="874" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-xs.jpg 640w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-sm.jpg 768w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-md.jpg 1024w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-lg.jpg 1366w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-xl.jpg 1600w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
