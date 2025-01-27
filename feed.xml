@@ -3,25 +3,38 @@
     <title>观测档案存储室</title>
     <link href="https://PaperBoxs.github.io/feed.xml" rel="self" />
     <link href="https://PaperBoxs.github.io" />
-    <updated>2025-01-26T20:02:37+08:00</updated>
+    <updated>2025-01-27T11:25:19+08:00</updated>
     <author>
         <name>CardBoxJustWokeUp</name>
     </author>
     <id>https://PaperBoxs.github.io</id>
 
     <entry>
-        <title>测试</title>
+        <title>一些简单的守则</title>
         <author>
             <name>CardBoxJustWokeUp</name>
         </author>
-        <link href="https://PaperBoxs.github.io/ce-shi.html"/>
-        <id>https://PaperBoxs.github.io/ce-shi.html</id>
+        <link href="https://PaperBoxs.github.io/yi-xie-jian-dan-de-shou-ze.html"/>
+        <id>https://PaperBoxs.github.io/yi-xie-jian-dan-de-shou-ze.html</id>
 
-        <updated>2025-01-26T20:02:31+08:00</updated>
-            <summary></summary>
+        <updated>2025-01-27T11:25:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    欢迎！电子代码的查阅者，偶然进入档案室的访客，诸位半叠合之影！ 这里是投影空间的一个重要部分，观测者之眸的数据存储之地，目前仅有此处为各位开放了访问权限，我们乐意向诸位客人分享这片“愈合之地”的过去、现在与未来。 当然了，为了保证空间的稳定性，尽管您享有高度的自由权，但仍然收到一些限制，我们希望您仔细查阅，并严格遵守： 并非所有的半叠合之影都拥有访问此处的权利，他们需要收到观测维系者的“邀请函” 能来到此地的半叠合之影享有着与投影体相同的查阅权限，此权限等级要远高于我们的中转站，但请诸位不要随意泄露，该地的承载力并不高，这便是为什么我们需要一个“中转站”。 中转站中仅存放了单向观测数据，也就是被观测之地的数据，但这里偶尔也存放一些投影空间的映射片段，你可以把它当成番外 放在中转站的观测档案经过维系者的排序，所以它的时间排序状态正确，是单线程的 然而此处因为时空观测的不确定性，你可以同时看见不同状态的故事，这很正常，但还是同样的，不要影响停留在中转站的半叠合之影
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://PaperBoxs.github.io/media/posts/1/lyhy.jpg" alt="" width="1920" height="874" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-xs.jpg 640w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-sm.jpg 768w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-md.jpg 1024w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-lg.jpg 1366w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-xl.jpg 1600w ,https://PaperBoxs.github.io/media/posts/1/responsive/lyhy-2xl.jpg 1920w"></figure>
+                <p>欢迎！电子代码的查阅者，偶然进入档案室的访客，诸位半叠合之影！</p>
+<p>这里是投影空间的一个重要部分，观测者之眸的数据存储之地，目前仅有此处为各位开放了访问权限，我们乐意向诸位客人分享这片“愈合之地”的过去、现在与未来。</p>
+<p>当然了，为了保证空间的稳定性，尽管您享有高度的自由权，但仍然收到一些限制，我们希望您仔细查阅，并严格遵守：</p>
+<ul>
+<li>并非所有的半叠合之影都拥有访问此处的权利，他们需要收到观测维系者的“邀请函”</li>
+<li>能来到此地的半叠合之影享有着与投影体相同的查阅权限，此权限等级要远高于我们的中转站，但请诸位不要随意泄露，该地的承载力并不高，这便是为什么我们需要一个“中转站”。</li>
+<li>中转站中仅存放了单向观测数据，也就是被观测之地的数据，但这里偶尔也存放一些投影空间的映射片段，你可以把它当成番外</li>
+<li>放在中转站的观测档案经过维系者的排序，所以它的时间排序状态正确，是单线程的</li>
+<li>然而此处因为时空观测的不确定性，你可以同时看见不同状态的故事，这很正常，但还是同样的，不要影响停留在中转站的半叠合之影</li>
+</ul>
             ]]>
         </content>
     </entry>
