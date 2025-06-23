@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PaperBoxs</title>
+    <link href="https://PaperBoxs.github.io/feed.xml" rel="self" />
+    <link href="https://PaperBoxs.github.io" />
+    <updated>2025-06-23T20:53:41+08:00</updated>
+    <author>
+        <name>PaperBoxs</name>
+    </author>
+    <id>https://PaperBoxs.github.io</id>
+
+    <entry>
+        <title>1</title>
+        <author>
+            <name>PaperBoxs</name>
+        </author>
+        <link href="https://PaperBoxs.github.io/1.html"/>
+        <id>https://PaperBoxs.github.io/1.html</id>
+
+        <updated>2025-06-23T20:53:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                    11
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>11</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
